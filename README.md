@@ -14,3 +14,6 @@ Scanner notre réseau pour récupérer les Adresses Ip des postes connectés à 
     
     -Donner accés au nouveau stagiaire à un dossier partagé .
 
+![architecture](https://user-images.githubusercontent.com/85403571/198307019-44837d59-d00d-461d-a8eb-cd858434b769.PNG)
+![Capture](https://user-images.githubusercontent.com/85403571/198307109-bc86f522-10f3-48b8-9fde-f6698102a917.PNG)
+![execution script](https://user-images.githubusercontent.com/85403571/198307169-d6c5e2d6-020b-47c0-ae8d-3451a1f8bc63.PNG)

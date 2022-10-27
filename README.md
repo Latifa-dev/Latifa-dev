@@ -1,4 +1,17 @@
 # Script pour automatisation de création et suppression des comptes utilisateurs temporaires sur des postes connectés  dans un ou plusieurs réseaux LAN
+Ce script peut être utilisé sur des postes ubuntu/Debian 
+
+
+
+
+#Python installé / mis à jour 
+#Autorisation d'accés au postes distants via ssh 
+#Installer Nmap pour le scan du réseau
+
+
+
+
+
 
 
 Ce Srcript a pour les fonctionnalités suivantes: 
@@ -8,9 +21,9 @@ Scanner notre réseau pour récupérer les Adresses Ip des postes connectés à 
 
     -chaque poste de travail portera un nom (hostname)
 
-    -Supprimer 'ancien compte stagiaire avec son dossier principal et tous ses fichiers.
+    -Supprimer l'ancien compte stagiaire avec son dossier principal et tous ses fichiers.
 
-    - Création d'un nouveau utilisateur stagiaire 
+    -Création d'un nouveau utilisateur stagiaire 
     
     -Donner accés au nouveau stagiaire à un dossier partagé .
 
